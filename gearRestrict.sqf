@@ -20,6 +20,7 @@
 /*/-----------------Limits apply to each array in gearWhiteList.sqf-----------------/*/
 /*/-----To remove an item completley, just comment it out in gearWhiteList.sqf-----/*/
 /*/--------------------------Remember 1 Mag spawns in gun-------------------------/*/
+/*/-------------------------------Value CANNOT = 0-------------------------------/*/
 _limitRockets = 1;
 _limitRifleMagazines = 3;
 _limitSniperMagazines = 3;
